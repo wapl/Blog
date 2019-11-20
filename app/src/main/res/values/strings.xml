@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android Challenge Blog</string>
+    <string name="title_activity_create_blog">CreateBlog</string>
 </resources>
